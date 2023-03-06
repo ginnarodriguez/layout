@@ -1,0 +1,12 @@
+
+.menu__link{
+    color: #808080;
+    margin-right: 1.5rem;
+    text-decoration: none; /*quita el subrayado*/
+}
+.menu__link:hover{
+    text-decoration: underline;/*subraya cuando se coloca el cursor encima*/
+}
+.menu__link.activo{
+    color: #333333;
+}
